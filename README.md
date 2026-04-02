@@ -1,6 +1,6 @@
 ## Committed to ethical tech 🍀
 
-I started my career in social sciences as a cognitive psychologist. After learning about the human brain, I decided to learn about the machine brain. My primary commitment in the tech world is to ideate, develop, create, and involve myself in ethical tech. It must be open, honest, and transparent. It must be resourced ethically, fairly, and sustainably. It must be environment-first and human-oriented. No big, empty talk about tech giants and billionaires. No supporting wars, colonisations, and all kinds of power-imbalanced offences. 
+I started my career in social sciences as a cognitive psychologist. After learning about the human brain, I decided to learn about the machine brain. My primary commitment in the tech world is to ideate, develop, create, and involve myself in ethical tech. It must be open, honest, and transparent. Resourced ethically, fairly, and sustainably. Very importantly, environment-first and human-oriented. No big, empty talk about tech giants and billionaires. No supporting wars, genocides, colonisations, and all kinds of power-imbalanced offences. 
 
 ## What I like ❤️
 
@@ -12,7 +12,7 @@ I started my career in social sciences as a cognitive psychologist. After learni
 
 ## Hire me❔
 
-I am currently following an intensive 7-month AI and Data Science bootcamp by [BeCode](https://becode.org/). All projects created during the bootcamp can be found in my repositories. I am aspiring to work in a small-to-medium-sized company. The roles I can do well:  
+I have just finished an intensive 7-month AI and Data Science bootcamp by [BeCode](https://becode.org/). All projects created during the bootcamp can be found in my repositories. I am aspiring to work in a small-to-medium-sized company. The roles I can do well:  
   
 :electron: Data scientist  
 :electron: End-to-end data analyst  
